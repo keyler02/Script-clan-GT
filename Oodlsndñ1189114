@@ -2963,8 +2963,3 @@ local switch =
             activateRandomItems(4)
         end
     end
-)
-switch:Set(false)
-local Credits = window:AddTab("Credits")
-
-Credits:AddLabel("Script for Clan GT")
